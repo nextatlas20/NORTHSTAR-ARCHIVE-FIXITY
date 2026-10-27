@@ -1,0 +1,82 @@
+{
+  "cutoff": "2094-04-30T20:00:00Z",
+  "object_count": 6,
+  "verified_count": 2,
+  "drift_count": 3,
+  "missing_count": 1,
+  "valid_scan_count": 11,
+  "objects": [
+    {
+      "object_id": "OA-101",
+      "path": "maps/estuary-1912.tif",
+      "steward": "Mira Sol",
+      "tier": 1,
+      "status": "VERIFIED",
+      "expected_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "observed_sha256": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "scanned_at": "2094-04-30T17:00:00Z",
+      "scanner": "vault-a",
+      "valid_scan_count": 2
+    },
+    {
+      "object_id": "OA-103",
+      "path": "ledgers/harbor-1888.pdf",
+      "steward": "Asha Bell",
+      "tier": 1,
+      "status": "MISSING",
+      "expected_sha256": "cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc",
+      "observed_sha256": null,
+      "scanned_at": null,
+      "scanner": null,
+      "valid_scan_count": 0
+    },
+    {
+      "object_id": "OA-102",
+      "path": "oral-history/reel-07.wav",
+      "steward": "Tomas Reed",
+      "tier": 2,
+      "status": "DRIFT",
+      "expected_sha256": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "observed_sha256": "2222222222222222222222222222222222222222222222222222222222222222",
+      "scanned_at": "2094-04-30T19:00:00Z",
+      "scanner": "vault-b",
+      "valid_scan_count": 3
+    },
+    {
+      "object_id": "OA-105",
+      "path": "plans/drydock-a.svg",
+      "steward": "Ivo Chen",
+      "tier": 2,
+      "status": "DRIFT",
+      "expected_sha256": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "observed_sha256": "8888888888888888888888888888888888888888888888888888888888888888",
+      "scanned_at": "2094-04-30T18:15:00Z",
+      "scanner": "vault-c",
+      "valid_scan_count": 3
+    },
+    {
+      "object_id": "OA-104",
+      "path": "photos/beacon-west.jp2",
+      "steward": "Noor Pike",
+      "tier": 3,
+      "status": "VERIFIED",
+      "expected_sha256": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "observed_sha256": "dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd",
+      "scanned_at": "2094-04-28T16:30:00Z",
+      "scanner": "mobile-2",
+      "valid_scan_count": 1
+    },
+    {
+      "object_id": "OA-106",
+      "path": "letters/pilot-book.txt",
+      "steward": "Lena Frost",
+      "tier": 3,
+      "status": "DRIFT",
+      "expected_sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "observed_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "scanned_at": "2094-04-30T20:00:00Z",
+      "scanner": "mobile-1",
+      "valid_scan_count": 2
+    }
+  ]
+}
