@@ -1,0 +1,1 @@
+Spring fixity cycle: scanner exports may include rejected diagnostics. Apply the published reconciliation contract.

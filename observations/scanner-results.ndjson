@@ -1,0 +1,16 @@
+{"object_id":"OA-101","scanned_at":"2094-04-01T09:00:00Z","observed_sha256":"9999999999999999999999999999999999999999999999999999999999999999","scanner":"vault-a","sequence":1}
+{"object_id":"OA-102","scanned_at":"2094-01-29T10:00:00Z","observed_sha256":"bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb","scanner":"vault-b","sequence":1}
+{"object_id":"OA-103","scanned_at":"2094-05-01T00:00:00Z","observed_sha256":"cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc","scanner":"vault-a","sequence":1}
+{"object_id":"OA-104","scanned_at":"2094-04-28T16:30:00Z","observed_sha256":"dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd","scanner":"mobile-2","sequence":5}
+{"object_id":"OA-105","scanned_at":"2094-04-30T18:15:00Z","observed_sha256":"7777777777777777777777777777777777777777777777777777777777777777","scanner":"vault-c","sequence":7}
+{"object_id":"OA-999","scanned_at":"2094-04-20T10:00:00Z","observed_sha256":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","scanner":"unknown","sequence":1}
+{"object_id":"OA-101","scanned_at":"2094-04-30T17:00:00Z","observed_sha256":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","scanner":"vault-a","sequence":2}
+{"object_id":"OA-102","scanned_at":"2094-04-30T19:00:00Z","observed_sha256":"1111111111111111111111111111111111111111111111111111111111111111","scanner":"vault-b","sequence":3}
+{"object_id":"OA-105","scanned_at":"2094-04-30T18:15:00Z","observed_sha256":"8888888888888888888888888888888888888888888888888888888888888888","scanner":"vault-c","sequence":8}
+{"object_id":"OA-106","scanned_at":"2094-04-29T11:00:00Z","observed_sha256":"ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff","scanner":"mobile-1","sequence":1}
+{"object_id":"OA-102","scanned_at":"2094-04-30T19:00:00Z","observed_sha256":"2222222222222222222222222222222222222222222222222222222222222222","scanner":"vault-b","sequence":4}
+{"object_id":"OA-105","scanned_at":"2094-04-15T08:00:00Z","observed_sha256":"eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee","scanner":"vault-c","sequence":2}
+{"object_id":"OA-106","scanned_at":"2094-04-30T20:00:00Z","observed_sha256":"0000000000000000000000000000000000000000000000000000000000000000","scanner":"mobile-1","sequence":2}
+{"object_id":"OA-103","scanned_at":"2094-04-20T12:00:00Z","observed_sha256":"CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC","scanner":"vault-a","sequence":2}
+{"object_id":"OA-104","scanned_at":"2094-04-28T16:30:00Z","observed_sha256":"dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd","scanner":"mobile-2","sequence":true}
+not-json

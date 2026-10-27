@@ -1,0 +1,7 @@
+object_id	relative_path	expected_sha256	steward	tier
+OA-101	maps/estuary-1912.tif	aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa	Mira Sol	1
+OA-102	oral-history/reel-07.wav	bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb	Tomas Reed	2
+OA-103	ledgers/harbor-1888.pdf	cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc	Asha Bell	1
+OA-104	photos/beacon-west.jp2	dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd	Noor Pike	3
+OA-105	plans/drydock-a.svg	eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee	Ivo Chen	2
+OA-106	letters/pilot-book.txt	ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff	Lena Frost	3
